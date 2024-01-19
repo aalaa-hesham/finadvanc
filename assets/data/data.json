@@ -1,0 +1,53 @@
+{
+  "products" : [
+    {
+        "id" : "1",
+        "name" : "bag",
+        "categoryId" : "1",
+        "description" : "good material",
+        "prict" : 20,
+        "quantity" : 12
+    },
+    {
+        "id" : "2",
+        "name" : "shoes",
+        "categoryId" : "1",
+        "description" : "good material",
+        "prict" : 33,
+        "quantity" : 5
+    }
+    ],  
+  "categories" : [
+    {
+        "id" : "1",
+        "title" : "new clothes",
+        "description" : "clother Category"
+    },
+    {
+        "id" : "2",
+        "title" : "Assets",
+        "description" : "assets Category"
+    }
+    ],
+    "ads" : [
+        {
+            "id" : "1",
+            "title" : "new discounts",
+            "picture" : "https://m.media-amazon.com/images/I/81S-ekaE+vS._AC_UL320_.jpg"
+        },
+        {
+            "id" : "2",
+            "title" : "Big sales",
+            "picture" : "https://m.media-amazon.com/images/I/61hMQOHmEIL._AC_UL320_.jpg"
+        },
+        {
+            "id" : "3",
+            "title" : "black friday offers",
+            "picture" : "https://m.media-amazon.com/images/I/81b9Eh286BL._AC_UL320_.jpg"
+        }
+    ]
+    
+
+
+}
+
